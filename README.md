@@ -4,19 +4,19 @@
 
 ## Etapas:
 ### Power BI Desktop: construindo meu primeiro dashboard
-- Entenda o conceito de Business Intelligence
-- Instale a ferramenta Power BI desktop
-- Importe dados de diferentes formatos e realize o tratamento deles no Power Query
-- Crie colunas, cálculos e medidas
-- Crie e utilize gráficos e visuais
-- Monte e estruture um Dashboard
-- Publique o seu Dashboard na web
+- Entender o conceito de Business Intelligence
+- Instalar a ferramenta Power BI desktop
+- Importar dados de diferentes formatos e realizar o tratamento deles no Power Query
+- Criar colunas, cálculos e medidas
+- Criar e utilizar gráficos e visuais
+- Montar e estruturar um Dashboard
+- Publicar o Dashboard na web
 
 ### Power BI Desktop: tratamento de dados no Power Query
-- Realize conexões a arquivos e banco de dados
-- Conheça e utilize o Power Query Editor
-- Entenda o que é a linguagem M
-- Transforme os dados de diversas formas
-- Realize tratamentos e carga dos dados visando boas práticas
+- Realizar conexões a arquivos e banco de dados
+- Conhecer e utilizar o Power Query Editor
+- Entender o que é a linguagem M
+- Transformar os dados de diversas formas
+- Realizar tratamentos e carga dos dados visando boas práticas
 
 
